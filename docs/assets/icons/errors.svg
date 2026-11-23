@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="error debugging">
+<rect x="1" y="1" width="46" height="46" rx="12" fill="#F43F5E" fill-opacity="0.12" stroke="#F43F5E" stroke-opacity="0.4"/>
+<g transform="translate(12 12)" fill="none" stroke="#F43F5E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" color="#F43F5E">
+<path d="M12 3.5 21.5 20h-19z"/><path d="M12 10v4.5"/><path d="M12 17.25h.01"/>
+</g>
+</svg>
